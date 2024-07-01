@@ -215,52 +215,52 @@
       <v-divider></v-divider>
       <v-divider></v-divider>
       <v-divider></v-divider>
-      <h3 class="text-center">Reach out to us</h3>
+      <h3 class="text-center">Customer Experiences</h3>
       <v-divider></v-divider>
       <v-row>
     <v-col cols="12" md="4">
       <v-card
-        subtitle="Leleito Glazier"
-        text="Email address: leleitoglazier@carsoko.org"
-        title="Sales Executive"
+        subtitle="Precised vehicle delivery"
+        text="The delivery reaches at the agreed time of delivery which offers customers ample prior planning"
+        title="Marion .B."
         
       ></v-card>
 
-      <div class="text-center text-caption">For queries on vehicle purchases</div>
+      <div class="text-center text-caption"></div>
     </v-col>
 
     <v-col cols="12" md="4">
       <v-card>
         <template v-slot:title>
-          Test Drive Facilitator
+          Nancy .J.
         </template>
 
         <template v-slot:subtitle>
-          Joe Woods
+          Accurate vehicle customization 
         </template>
 
         <template v-slot:text>
-          Email address: joewoods49@carsoko.org<br> Contact card: +49199866435
+          The customizations done to the vehicle are done with great amount of accuracy.
         </template>
       </v-card>
 
-      <div class="text-center text-caption">For test drives and queries</div>
+      <div class="text-center text-caption"></div>
     </v-col>
 
     <v-col cols="12" md="4">
       <v-card>
         <v-card-item>
-          <v-card-title>Automative Engineer</v-card-title>
+          <v-card-title>Bella Cheps</v-card-title>
 
-          <v-card-subtitle>Jane Rose</v-card-subtitle>
+          <v-card-subtitle>Attractive after market services</v-card-subtitle>
         </v-card-item>
 
         <v-card-text>
-          Email: janerose@carsoko.org<br> Contact: +49199866553
+          The deliveries comes in with interesting add-ons such as toolkits for the vehicle.
                 </v-card-text>
       </v-card>
 
-      <div class="text-center text-caption">For Custom vehicles</div>
+      <div class="text-center text-caption"></div>
     </v-col>
   </v-row>
 </div>
