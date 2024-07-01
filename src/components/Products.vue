@@ -115,7 +115,7 @@
                      itemPrice : 9000000,
                      itemQuantity : 30,
                      itemImage: '/public/Images/download (3).jpeg',
-                     description:'In Candy Crush you get to experience an explotion of flavours'
+                     description:'Similar to G-Wagon this is luxury in hostile environments'
                  },
                 {
                   itemNumber: 9,
